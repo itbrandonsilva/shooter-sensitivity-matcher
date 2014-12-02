@@ -1,0 +1,21 @@
+{
+  "name": "shooter-sensitivity-matcher",
+  "version": "1.0.0",
+  "description": "Tool to help match your shooter sensitivity with your desktop cursor.",
+  "repository": "http://www.github.com/itbrandonsilva/shooter-sensitivity-matcher",
+  "main": "ssm.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "commander": "^2.5.0",
+    "ffi": "^1.2.7",
+    "progress": "^1.1.8",
+    "ref": "^0.3.2",
+    "ref-struct": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Silva",
+  "license": "ISC"
+}
